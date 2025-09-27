@@ -145,3 +145,25 @@ Compilar y ejecutar con:
 javac GestorTareasApp.java
 java GestorTareasApp
 ```
+
+## Images
+
+<div align=center>
+  <img align=center width="1318" height="881" alt="image" src="https://github.com/user-attachments/assets/719ce88c-cfe4-4ccb-be3e-af33ce03234d" />
+
+  ---
+  
+  <img align=center width="1321" height="889" alt="image" src="https://github.com/user-attachments/assets/2619c80e-c7c2-4027-b8eb-053c4b0c9e65" />
+
+  ---
+  
+  <img align=center width="1325" height="889" alt="image" src="https://github.com/user-attachments/assets/2d1b3ca4-9ba6-4ac7-a1ab-ebe0a5385db9" />
+
+  ---
+  
+  <img align=center width="1328" height="892" alt="image" src="https://github.com/user-attachments/assets/d91fe5b0-44bf-4bfb-85cc-1a5d426feae6" />
+</div>
+
+
+
+
